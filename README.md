@@ -5,11 +5,13 @@ Code for the NeurIPS 2021 BEETL Challenge (https://beetl.ai/). The goal of the c
 - Task 1: cross-subject sleep stage decoding 
 - Task 2: cross-dataset motor imagery decoding
 
-![alt text](doc/challenge_overview.png)
+<p align="center">
+  <img src="doc/challenge_overview.png" />
+  <br><span>(source: https://beetl.ai/challenge)</span>
+</p>
 
 
-This solutions scored ?th in final overall score (calculated based on final phase results in both tasks). 
-
+This solutions ranked 5th in final overall score (calculated based on final phase results in both tasks). 
 
 ## Overview
 Same approach was used in both tasks with different models. 
@@ -55,8 +57,8 @@ Output content:
 |---|:---|
 |sleep leaderboard testing phase|72.14 (1)|
 |motor imagery testing phase|45.47 (6)|
-|sleep final scoring phase|? (?)|
-|motor imagery final scoring phase|? (?)|
+|sleep final scoring phase|	66.78 (3)|
+|motor imagery final scoring phase|56.47 (4)|
 
 
 ## Reproducibility
