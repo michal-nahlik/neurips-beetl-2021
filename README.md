@@ -39,6 +39,7 @@ Motor imagery: [src/final/beetl_mi_mixup_vat.ipynb](/src/final/beetl_mi_mixup_va
 
 ## Report
 Report: [doc/neurips-beetl-2021.pdf](/doc/neurips-beetl-2021.pdf)<br>
+NeurIPS poster: [doc/neurips-2021-nahlik-mixup-transfer-learning.png](/doc/neurips-2021-nahlik-mixup-transfer-learning.png)<br>
 
 ## Output from notebook runs
 Leaderboard testing phase sleep: [output/leaderboard/2021-09-29-18-58-sleep-mixup_vat_v2.zip](/output/leaderboard/2021-09-29-18-58-sleep-mixup_vat_v2.zip)<br>
@@ -58,7 +59,7 @@ Output content:
 |sleep leaderboard testing phase|72.14 (1)|
 |motor imagery testing phase|45.47 (6)|
 |sleep final scoring phase|	66.78 (3)|
-|motor imagery final scoring phase|56.47 (4)|
+|motor imagery final scoring phase|56.47 (5)|
 
 
 ## Reproducibility
